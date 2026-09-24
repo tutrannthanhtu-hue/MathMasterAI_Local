@@ -1,0 +1,7 @@
+MathMaster THCS AI 2.0 - LOCAL MODEL
+
+1) Dùng GGUF model chạy trên máy, không cần API/server.
+2) Khuyến nghị model toán cỡ 1.5B Q4_K_M để thử trên điện thoại.
+3) Chọn file .gguf trong ứng dụng. Model được sao chép vào bộ nhớ riêng của app.
+4) Nếu máy yếu, chọn model nhỏ hơn; nếu máy đủ RAM có thể dùng GGUF lớn hơn.
+5) OCR ảnh dùng ML Kit. Hình học có sơ đồ phức tạp cần người dùng bổ sung dữ kiện bằng chữ.
